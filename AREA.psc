@@ -1,0 +1,11 @@
+Algoritmo AREA
+	DEFINIR B,ALT,A Como Real
+	Escribir "INGRESA PRIMER NUMERO"
+	LEER B
+	ESCRIBIR "INGRESA SEGUNDO NUMERO"
+	Leer ALT
+	A = B * ALT
+	Escribir "EL RASULTADO DEL AREA ES",A
+	
+	
+FinAlgoritmo
